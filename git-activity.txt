@@ -1,1 +1,2 @@
 This is my Git Activity
+Adding more info in the feature branch.
